@@ -1,0 +1,7 @@
+﻿  Box.cpp
+c:\users\mosquito\documents\visual studio 2017\projects\physic engine\physic engine\box.cpp(46): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\mosquito\documents\visual studio 2017\projects\physic engine\physic engine\box.cpp(49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\mosquito\documents\visual studio 2017\projects\physic engine\physic engine\box.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mosquito\documents\visual studio 2017\projects\physic engine\physic engine\box.cpp(54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Physic Engine.vcxproj -> C:\Users\Mosquito\documents\visual studio 2017\Projects\Physic Engine\Debug\Physic Engine.exe
+  Physic Engine.vcxproj -> C:\Users\Mosquito\documents\visual studio 2017\Projects\Physic Engine\Debug\Physic Engine.pdb (Partial PDB)
